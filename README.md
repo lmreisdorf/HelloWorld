@@ -19,14 +19,6 @@ The following **additional** features are implemented:
 
 * [x] A hyperlink connects the creator's name to their LinkedIn page
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## License
 
     Copyright 2022 Lynette Reisdorf
